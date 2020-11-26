@@ -4,5 +4,4 @@
 test.cc
 test[0-9]*.cc
 testing
-launch.json
-tasks.json
+.vscode
